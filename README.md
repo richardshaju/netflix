@@ -17,4 +17,4 @@ This project is a Netflix clone built using React.js and the TMDB (The Movie Dat
 
 ## Credits
 - This project utilizes the TMDB API for fetching movie and TV show data.
-- Developed by [Richard S]
+- Developed by [Richard S](https://richard.is-a.dev)
